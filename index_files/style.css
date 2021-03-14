@@ -1,0 +1,98 @@
+h2{
+    margin-top:100px;
+    text-align: center;
+    color:lightslategray;
+    margin-bottom: 20px;
+    
+
+    
+    
+}
+#features{
+    margin-bottom: 50px;
+    text-align: center;
+    position: relative;
+    margin-top: 50px;
+    color:red;
+    
+    
+}
+
+
+.dropdown-item {
+    display:block;
+    width: 100%;
+    padding: 0.25rem 1.5rem;
+    clear: both;
+    font-weight: 400;
+    color: #212529;
+    text-align: center !important;
+    white-space: nowrap;
+    background-color: transparent;
+    border: 0;
+    
+}
+/*
+footer{
+    display: block;
+    text-align: center;
+    font-weight: 500;
+    color:white;
+    background-color:gray;
+    margin: 30px;
+}
+*/
+footer .top-footer .overlay {
+    background-color: rgb(216, 108, 198);
+    padding: 60px 0; 
+  }
+  
+  footer .top-footer .overlay h3 {
+    font-size: 30px;
+    width: 80%;
+    margin: 0 auto 30px; 
+  }
+footer .top-footer .overlay ul li a {
+    width: 70px;
+    height: 70px;
+    line-height: 70px;
+    display: block;
+	color: #fff;
+}
+footer .top-footer .overlay ul li a.facebook:hover {
+    background-color: #3b5999; 
+}
+footer .top-footer .overlay ul li a.twitter:hover {
+    background-color: #55acee; 
+}
+footer .top-footer .overlay ul li a.linkedin:hover {
+    background-color: #0077B5; 
+}
+footer .top-footer .overlay ul li a.instagram:hover {
+    background-color: #e4405f; 
+}
+footer .top-footer .overlay ul li a.whatsapp:hover {
+    background-color: #14b92a; 
+}
+footer .top-footer .overlay ul li {
+    margin: 0 5px 10px; 
+} 
+
+footer .top-footer .overlay hr {
+    width: 25%;
+    border-top: 1px solid rgba(255, 255, 255,0.1);
+    margin-top: 50px; 
+}
+/* تنسيق أيقونة الظرف وإضافة مسافة بينها وبين البريد الإلكتروني */
+footer .top-footer .overlay p a {
+     color: black; 
+}
+footer .top-footer .overlay p a i {
+     color: white;
+     margin-left: 5px; 
+}
+/*تنسيق مسؤول عن درجة نعومة التأثير*/
+footer .top-footer .overlay ul li a {
+     -webkit-transition: all 0.3s ease;
+     Transition: all 0.3s ease;
+}
